@@ -1,6 +1,6 @@
 export const lang = {
   "Settings.General": "通用",
-  "Language": "通用",
+  "Language": "语言",
   "NewsChannel": "TeleOTP 新闻",
   "ActionOpen": "打开",
   "Settings.Security": "隐私",
