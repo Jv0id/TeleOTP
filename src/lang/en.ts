@@ -1,7 +1,7 @@
 export const lang = {
     "Settings.General": "General",
     "Language": "Language",
-    "NewsChannel": "TeleOTP News",
+    "NewsChannel": "Interesting Channel",
     "ActionOpen": "Open",
     "Settings.Security": "Security",
     "Password": "Password",
